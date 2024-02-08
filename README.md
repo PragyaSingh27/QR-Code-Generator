@@ -3,6 +3,9 @@
 React Responsive Website.
 
 [**QR Code Generator Github Repository**](https://github.com/PragyaSingh27/QR-Code-Generator.git)
+
+
+Visit the website at-
 [**QR Code Generator**](https://shimmering-paprenjak-022417.netlify.app/)
 
 <!-- ## 📸 ScreenShots 📷 -->
