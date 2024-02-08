@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.container input{
+    padding: 10px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    outline: none;
+    margin-bottom: 20px;
+}
+.container button{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    margin-bottom: 20px;
+    cursor: pointer;
+
+}
+.container button:hover{
+    background-color: #000;
+    color: #fff;
+}
+
