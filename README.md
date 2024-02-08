@@ -19,4 +19,4 @@ React Responsive Website.
 
 <!-- <img src = "images\web1.jpg" width = 1260 height = 600> -->
 
-Using 3rd "# QR-Code-Generator" 
+Using 3rd party library package=> react-qr-code
